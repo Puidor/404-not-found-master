@@ -34,8 +34,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
-![screenshot](./images/Site-404)
+![image](https://github.com/Puidor/404-not-found-master/blob/master/images/Site-404.png)
 
 ### Built With
 
