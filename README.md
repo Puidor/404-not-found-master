@@ -51,5 +51,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Linkedin [carlosadrianoss](https://{https://www.linkedin.com/in/carlosadrianoss/})
-- GitHub [@Puidor](https://{https://github.com/Puidor})
+- Linkedin [carlosadrianoss](https://www.linkedin.com/in/carlosadrianoss/)
+- GitHub [@Puidor](https://github.com/Puidor)
