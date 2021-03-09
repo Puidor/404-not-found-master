@@ -1,0 +1,102 @@
+/*GLOBAL =============================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+/*HEADER =============================== */
+header {
+  padding: 3rem;
+
+  font-family: "Inconsolata", monospace;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.08em;
+  text-align: left;
+}
+/*MAIN =============================== */
+main {
+  display: flex;
+  width: 70%;
+  margin: auto;
+  margin-top: 5rem;
+}
+
+.page-image img {
+  width: 100%;
+}
+
+.content {
+  padding: 7rem;
+}
+
+.content h1 {
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 95px;
+}
+
+.content p {
+  color: #4f4f4f;
+
+  margin-top: 3rem;
+
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+}
+
+.content a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 216px;
+  height: 68px;
+
+  margin-top: 3rem;
+
+  background: #333333;
+  color: white;
+
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 21px;
+}
+
+.content h1,
+.content a,
+.content p {
+  font-family: "Space Mono", monospace;
+  font-style: normal;
+  letter-spacing: -0.035em;
+  text-align: left;
+}
+
+footer {
+  font-family: "Space Mono", monospace;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: center;
+
+  color: #bdbdbd;
+}
+
+/*============================================== */
+/*==============MOBILE VERSION================== */
+/*============================================== */
+@media (max-width: 1220px) {
+  main {
+    flex-direction: column;
+  }
+}
